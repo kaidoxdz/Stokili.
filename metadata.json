@@ -1,0 +1,5 @@
+{
+  "name": "Stokili Pro",
+  "description": "Une application web professionnelle pour les e-commerçants afin de gérer les stocks, organiser les commandes et obtenir des informations basées sur l'IA avec l'aide de Gemini.",
+  "requestFramePermissions": []
+}
